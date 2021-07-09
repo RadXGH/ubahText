@@ -7,7 +7,7 @@ Simple dark themed text editor with basic functionality (similiar to Notepad).
 - Pyperclip (version 1.8.2)
 
 ## Picture
-![window](https://user-images.githubusercontent.com/85069947/125113429-db4f4b80-e112-11eb-8cb9-843ab3d107dd.JPG)
+![window](https://user-images.githubusercontent.com/85069947/125113580-0a65bd00-e113-11eb-9174-9c1e85badfd2.JPG)
 
 ## Developer
 Albert E (RadX) vradnisntlong@gmail.com
